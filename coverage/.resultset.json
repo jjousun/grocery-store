@@ -1,0 +1,25 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/jou-jousun/ada/projects/grocery-store/lib/product.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/jou-jousun/ada/projects/grocery-store/lib/store.rb": [
+
+      ]
+    },
+    "timestamp": 1491182127
+  }
+}
