@@ -1,4 +1,4 @@
-product_id,name,unit_size,MSRP,discount,description,aisle,quantity,date
+id,name,unit_size,MSRP,discount,description,aisle,quantity,date
 1,salsa,12 oz glass,6,5,mild regular hot salsa from farmer's market,1,12,03-27-2017
 2,vegemite,6 oz glass,4,3,handmade in small batches,1,15,03-27-2017
 3,feta,10 g log,3,2,local goat cheese feta,10,5,03-27-2017
